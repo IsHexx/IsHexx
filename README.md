@@ -5,11 +5,6 @@
   <p>软件测试专家 | 自动化测试工程师 | AI技术爱好者</p>
 </div>
 
-<!-- 使用GitHub原生的计数器 -->
-<div align="center">
-  <img src="https://badgen.net/github/followers/IsHexx">
-<img src="https://badgen.net/github/stars/IsHexx">
-</div>
 
 ## 🧰 语言和工具
 
