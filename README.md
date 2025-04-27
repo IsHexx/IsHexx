@@ -2,7 +2,7 @@
 
 <div align="center">
   <div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的GitHub主页;I'm+Yi-Nian+Welcome+!&center=true&size=27"> </a> </div>
-  <p>软件测试专家 | 自动化测试工程师 | AI技术爱好者</p>
+  <p>测试开发 | AI技术爱好者 | 独立开发者</p>
 </div>
 
 
