@@ -1,13 +1,13 @@
 # 👋 你好，我是 IsHexx
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的GitHub主页;软件测试专家|自动化测试工程师;AI技术爱好者&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到我的GitHub主页;软件测试专家|自动化测试工程师;AI技术爱好者&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/IsHexx?label=关注者&style=social">
   <img src="https://img.shields.io/github/stars/IsHexx?label=获赞&style=social">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=IsHexx.IsHexx">
+  <img src="https://komarev.com/ghpvc/?username=IsHexx&label=访问量&color=0e75b6&style=flat">
 </div>
 
 ## 🧰 语言和工具
@@ -28,8 +28,8 @@
 ## 📊 GitHub 统计数据
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsHexx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsHexx&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IsHexx&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsHexx&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
 
 ## 🏆 GitHub 奖杯
@@ -41,7 +41,7 @@
 ## 📈 贡献图
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=IsHexx&theme=react-dark&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsHexx&theme=react-dark&hide_border=true">
 </div>
 
 ## 🔥 连续提交
@@ -54,16 +54,19 @@
 
 <div align="center">
   <a href="https://github.com/IsHexx/WebUIAutoTest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsHexx&repo=WebUIAutoTest&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IsHexx&repo=WebUIAutoTest&theme=radical&hide_border=true">
   </a>
   <a href="https://github.com/IsHexx/TestNote">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsHexx&repo=TestNote&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IsHexx&repo=TestNote&theme=radical&hide_border=true">
   </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsHexx&repo=system-prompts-and-models-of-ai-tools-chinese&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IsHexx&repo=system-prompts-and-models-of-ai-tools-chinese&theme=radical&hide_border=true">
   </a>
   <a href="https://github.com/IsHexx/VerityX">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsHexx&repo=VerityX&theme=radical&hide_border=true">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IsHexx&repo=VerityX&theme=radical&hide_border=true">
   </a>
 </div>
 
