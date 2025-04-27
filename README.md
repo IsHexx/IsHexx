@@ -7,8 +7,8 @@
 
 <!-- 使用GitHub原生的计数器 -->
 <div align="center">
-  ![Followers](https://img.shields.io/github/followers/IsHexx?style=social)
-  ![Stars](https://img.shields.io/github/stars/IsHexx?style=social)
+  <img src="https://badgen.net/github/followers/IsHexx">
+<img src="https://badgen.net/github/stars/IsHexx">
 </div>
 
 ## 🧰 语言和工具
