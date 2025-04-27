@@ -32,11 +32,6 @@
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsHexx&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
 </div>
 
-## 🏆 GitHub 奖杯
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsHexx&theme=onedark&row=1&column=6&margin-w=15&margin-h=15">
-</div>
 
 ## 📈 贡献图
 
