@@ -2,6 +2,8 @@
 
 <div align="center">
   <div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎来到我的GitHub主页;I'm+Heart-Yang+Welcome+!&center=true&size=27"> </a> </div>
+
+  <div align="center"><a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=屏幕前的生活，不是你我的全部;I'm+Heart-Yang+Welcome+!&center=true&size=27"> </a> </div>
   <p>软件测试专家 | 自动化测试工程师 | AI技术爱好者</p>
 </div>
 
