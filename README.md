@@ -1,13 +1,14 @@
 # 👋 你好，我是 IsHexx
 
-<div align="center" style="background-color: #f8fbfa; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到我的GitHub主页;软件测试专家|自动化测试工程师;AI技术爱好者&font=Fira%20Code&center=true&width=440&height=45&color=0bb3b2&vCenter=true&size=22">
+<div align="center">
+  <h3>欢迎来到我的GitHub主页</h3>
+  <p>软件测试专家 | 自动化测试工程师 | AI技术爱好者</p>
 </div>
 
-<div align="center" style="background-color: #f8fbfa; padding: 10px; border-radius: 10px; margin-top: 15px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <img src="https://img.shields.io/github/followers/IsHexx?label=关注者&color=0bb3b2&style=flat-square">
-  <img src="https://img.shields.io/github/stars/IsHexx?label=获赞&color=85e0a3&style=flat-square">
-  <img src="https://img.shields.io/badge/访问量-增长中-0bb3b2?style=flat-square">
+<!-- 使用GitHub原生的计数器 -->
+<div align="center">
+  ![Followers](https://img.shields.io/github/followers/IsHexx?style=social)
+  ![Stars](https://img.shields.io/github/stars/IsHexx?style=social)
 </div>
 
 ## 🧰 语言和工具
