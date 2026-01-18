@@ -34,17 +34,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsHexx&bg_color=f8fbfa&color=0bb3b2&line=85e0a3&point=0bb3b2&area=true&hide_border=true">
 </div>
 
-## 🔥 连续提交 - 方案一（推荐）
+## 🔥 连续提交
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=IsHexx&theme=light&hide_border=true&background=f8fbfa&stroke=0bb3b2&ring=85e0a3&fire=0bb3b2&currStreakNum=85e0a3&sideNums=0bb3b2&currStreakLabel=85e0a3&sideLabels=0bb3b2&dates=333">
 </div>
 
-## 🔥 连续提交 - 方案二（备选）
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsHexx&theme=light&hide_border=true&background=f8fbfa&stroke=0bb3b2&ring=85e0a3&fire=0bb3b2&currStreakNum=85e0a3&sideNums=0bb3b2&currStreakLabel=85e0a3&sideLabels=0bb3b2&dates=333">
-</div>
 
 ## 🏆 GitHub 成就徽章
 
@@ -52,7 +47,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=IsHexx&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7">
 </div>
 
-## 🎯 主要项目 - 方案一（原版）
+## 🎯 主要项目
 
 <div align="center">
   <a href="https://github.com/IsHexx/WebUIAutoTest">
@@ -72,17 +67,7 @@
   </a>
 </div>
 
-## 📊 详细统计信息（可选）
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsHexx&theme=default">
-</div>
-
-## 📈 提交时间分布（可选）
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IsHexx&layout=compact&theme=default&hide_border=true&bg_color=f8fbfa&title_color=0bb3b2&text_color=333">
-</div>
 
 ## 👀 访问统计
 
