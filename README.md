@@ -39,11 +39,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IsHexx&bg_color=f8fbfa&color=0bb3b2&line=85e0a3&point=0bb3b2&area=true&hide_border=true" alt="Contribution Graph">
 </div>
 
-## 🏆 GitHub 成就
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsHexx&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</div>
 
 ## 🎯 精选项目
 
@@ -66,12 +61,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsHexx&theme=default" alt="Repos Per Language">
 </div>
 
-## 👀 访客统计
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IsHexx&color=0bb3b2&style=flat-square&label=访问量" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/IsHexx?label=关注者&style=flat-square&color=85e0a3" alt="Followers">
-</div>
 
 ## 📫 联系方式
 
