@@ -23,7 +23,7 @@
 ## 📊 GitHub 数据概览
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsHexx&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333&cache_seconds=1800" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IsHexx&show_icons=true&theme=default&hide_border=true&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333&cache_seconds=1800" alt="GitHub Stats">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsHexx&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333&cache_seconds=1800" alt="Top Languages">
 </div>
 
@@ -42,7 +42,7 @@
 ## 🏆 GitHub 成就
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IsHexx&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=IsHexx&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
 ## 🎯 精选项目
