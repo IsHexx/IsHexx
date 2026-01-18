@@ -24,8 +24,8 @@
 ## 📊 GitHub 统计数据
 
 <div align="center" style="background-color: #f8fbfa; padding: 15px; border-radius: 10px; margin: 15px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IsHexx&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IsHexx&layout=compact&langs_count=7&theme=default&hide_border=true&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsHexx&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsHexx&layout=compact&langs_count=7&theme=default&hide_border=true&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333"/>
 </div>
 
 ## 📈 贡献图
@@ -37,26 +37,26 @@
 ## 🔥 连续提交
 
 <div align="center" style="background-color: #f8fbfa; padding: 15px; border-radius: 10px; margin: 15px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsHexx&theme=light&hide_border=true&background=f8fbfa&stroke=0bb3b2&ring=85e0a3&fire=0bb3b2&currStreakNum=85e0a3&sideNums=0bb3b2&currStreakLabel=85e0a3&sideLabels=0bb3b2&dates=333">
+  <img src="https://streak-stats.demolab.com/?user=IsHexx&theme=light&hide_border=true&background=f8fbfa&stroke=0bb3b2&ring=85e0a3&fire=0bb3b2&currStreakNum=85e0a3&sideNums=0bb3b2&currStreakLabel=85e0a3&sideLabels=0bb3b2&dates=333">
 </div>
 
 ## 🎯 主要项目
 
 <div align="center" style="background-color: #f8fbfa; padding: 15px; border-radius: 10px; margin: 15px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <a href="https://github.com/IsHexx/WebUIAutoTest">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IsHexx&repo=WebUIAutoTest&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsHexx&repo=WebUIAutoTest&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333&hide_border=true">
   </a>
   <a href="https://github.com/IsHexx/TestNote">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IsHexx&repo=TestNote&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsHexx&repo=TestNote&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333&hide_border=true">
   </a>
 </div>
 
 <div align="center" style="background-color: #f8fbfa; padding: 15px; border-radius: 10px; margin: 15px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   <a href="https://github.com/IsHexx/system-prompts-and-models-of-ai-tools-chinese">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IsHexx&repo=system-prompts-and-models-of-ai-tools-chinese&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsHexx&repo=system-prompts-and-models-of-ai-tools-chinese&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333&hide_border=true">
   </a>
   <a href="https://github.com/IsHexx/VerityX">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=IsHexx&repo=VerityX&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IsHexx&repo=VerityX&bg_color=f8fbfa&title_color=0bb3b2&icon_color=85e0a3&text_color=333&hide_border=true">
   </a>
 </div>
 
